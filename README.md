@@ -54,3 +54,6 @@ pytest test_engine.py -v
 | v1.0 | Calculadora básica no terminal |
 | v2.0 | Histórico, memória e exportação CSV |
 | v3.0 | Interface gráfica com Tkinter e engine separada |
+
+## Créditos do ícone
+Ícone criado por [logisstudio](https://www.flaticon.com/authors/logisstudio) via [Flaticon](https://www.flaticon.com)
